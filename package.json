@@ -10,7 +10,7 @@
         "prettier:format": "prettier --write \"**/*.{ts,js}\""
     },
     "dependencies": {
-        "eslint": "^7.18.0",
+        "eslint": "^10.12.0",
         "lodash.deburr": "^4.1.0",
         "prettier": "2.2.1",
         "ts-node": "^10.9.1",
